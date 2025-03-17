@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjay
+Hi! My name is Sanjay
 ===========================================================================================================================
 
 Data Analyst | Python Enthusiast | Lifelong Learner
@@ -25,14 +25,19 @@ I hold a Level 3 degree in Data Analytics, Computer Science, Mathematics and Eco
 
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: [Tourism Analysis](https://github.com/Sanj-Singh03/PowerBi-JustIT---Tourism-Project)
+  - **Description**: Project created to analyse most popular destinations.
+  - **Technologies Used**: Data connection, transformation and cleaning, data visualisation.
 
 ### Tableau
-- **Project Name**: [Project Title](link-to-project)
+- **Project Name**: [Gap Minder Health]((https://github.com/Sanj-Singh03/Tableau-JustIT---GapMinderHealth-Project))
+  - **Description**: Project created to analyse cancer rates and life expectancy
+  - **Tableau vizz**: Here is the [Vizz](https://public.tableau.com/app/profile/sanjay.singh4699/viz/GapMinderHealthDV/HealthComparisons)
+- **Project Name**: [Spotify Data Analysis](https://github.com/Sanj-Singh03/Tableau-JustIT---Spotify-Analysis)
   - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+  - **Tableau vizz**: Here is the [Vizz](https://public.tableau.com/app/profile/sanjay.singh4699/viz/SpotifyDBanalysis/Dashboard1)
+- **Tableau Profile**: [Sanjay Singh](https://public.tableau.com/app/profile/sanjay.singh4699/vizzes)
+  - **Technologies Used**: Creating graphs, using filters, index, data connection, transformation and cleaning.
 
 ### MySQL
 - **Project Name**: [Project Title](link-to-project)
@@ -44,6 +49,11 @@ I hold a Level 3 degree in Data Analytics, Computer Science, Mathematics and Eco
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
 
+### Visual Basic & SQLite3
+- Pharmacy Rota Creator: [Visual Basic - Pharmacy Rota Creator](https://github.com/Sanj-Singh03/VisualBasic-PharmacyRotaAPP)
+  - **Description**: This application helps in the creation and storage of rotas for a chain of pharmacies.
+  - **Technologies Used**: Visual Basic Windows application, OOB with an SQLite3 Data Integration.
+    
 ### DP900
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
@@ -72,12 +82,14 @@ I hold a Level 3 degree in Data Analytics, Computer Science, Mathematics and Eco
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp;&nbsp;
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>&nbsp;&nbsp;
   <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
-  <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer; return false;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="36" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"><img src="">
+  <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer; return false;"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="36" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"><img src="https://github.com/Sanj-Singh03/Sanj-Singh03/blob/main/icons/visual-basic.png" width="36" height="36" alt="Visual Basic" /></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Sanj-Singh03/Sanj-Singh03/blob/main/icons/file-type-sqlite.svg" width="36" height="36" alt="SQLite3" /></a>&nbsp;&nbsp;
 
 </p>
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
+**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: PowerBI, Tableau, Git, GitHub, MySQL, Visual Basic, SQLite3
 
 ### Socials
 
