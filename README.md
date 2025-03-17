@@ -30,7 +30,7 @@ I hold a Level 3 degree in Data Analytics, Computer Science, Mathematics and Eco
   - **Technologies Used**: Data connection, transformation and cleaning, data visualisation.
 
 ### Tableau
-- **Project Name**: [Gap Minder Health]((https://github.com/Sanj-Singh03/Tableau-JustIT---GapMinderHealth-Project))
+- **Project Name**: [Gap Minder Health](https://github.com/Sanj-Singh03/Tableau-JustIT---GapMinderHealth-Project)
   - **Description**: Project created to analyse cancer rates and life expectancy
   - **Tableau vizz**: Here is the [Vizz](https://public.tableau.com/app/profile/sanjay.singh4699/viz/GapMinderHealthDV/HealthComparisons)
 - **Project Name**: [Spotify Data Analysis](https://github.com/Sanj-Singh03/Tableau-JustIT---Spotify-Analysis)
