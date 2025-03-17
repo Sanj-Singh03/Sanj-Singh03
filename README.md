@@ -40,9 +40,9 @@ I hold a Level 3 degree in Data Analytics, Computer Science, Mathematics and Eco
   - **Technologies Used**: Creating graphs, using filters, index, data connection, transformation and cleaning.
 
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+- **Project Name**: [World DB Analysis](https://github.com/Sanj-Singh03/MySQL---World-DB-Analysis)
+  - **Description**: This project was done to familiarise myself to MySQL.
+  - **Technologies Used**: I used the World DataSet provided by MySQL to create analytical scripts.
 
 ### Python and Pandas
 - **Project Name**: [Project Title](link-to-project)
@@ -60,9 +60,9 @@ I hold a Level 3 degree in Data Analytics, Computer Science, Mathematics and Eco
   - **Technologies Used**: List the tools and concepts used in the project.
 
 ### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+- **Project Name**: [Excel - JustIT Projects](https://github.com/Sanj-Singh03/Excel---JustIT)
+  - **Description**: This project was done to familiarise myself with Microsoft Excel.
+  - **Technologies Used**: Excel commands, Pivot Tables, Data transformation, cleaning and connection.
 
 
 
